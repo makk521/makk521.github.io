@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: Hello_World
 subtitle:
-description:
-author: John Doe
+description:保持热爱,奔赴山海！
+author: makaka
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -136,8 +136,8 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
-  categories: th
-  schedule: calendar
+  #ategories: th
+  #schedule: calendar
   tags: tags
   archives: archive
   sitemap: sitemap
