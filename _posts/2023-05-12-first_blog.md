@@ -21,4 +21,8 @@ hello world!
 
 ### 图片
 
+
+<img class="centered" src="1.png" />
+
+
 ![1683878356561](image/2023-05-12-first_blog/1683878356561.png)
