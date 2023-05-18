@@ -17,8 +17,4 @@ hello world!
 
 ### 图片
 
-
-<img class="centered" src="1.png" />
-
-
-![1683878356561](1.png)
+(test)[xxx.jpg]

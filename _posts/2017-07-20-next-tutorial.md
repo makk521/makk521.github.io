@@ -5,7 +5,6 @@ categories:
  - tutorial
 tags:
 ---
-
 > NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo Next](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
 
 <!-- more -->
@@ -15,8 +14,7 @@ tags:
 ## Screenshots
 
 * Desktop
-![Desktop Preview](http://iissnan.com/nexus/next/desktop-preview.png)
-
+  ![Desktop Preview](http://iissnan.com/nexus/next/desktop-preview.png)
 * Sidebar
 
 ![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-preview.png)
@@ -28,7 +26,6 @@ tags:
 * Mobile
 
 ![Mobile Preview](http://iissnan.com/nexus/next/mobile.png)
-
 
 ## Installation
 
@@ -64,7 +61,6 @@ bundle exec jekyll server
 ```
 
 More Details：[Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
-
 
 ## Features
 
@@ -128,8 +124,7 @@ Set `rss` field in theme's `_config.yml`, as the following value:
 1. `rss: false` will totally disable feed link.
 2. `rss:  ` use sites' feed link. This is the default option.
 
-    Follow the installation instruction in the plugin's README. After the configuration is done for this plugin, the feed link is ready too.
-
+   Follow the installation instruction in the plugin's README. After the configuration is done for this plugin, the feed link is ready too.
 3. `rss: http://your-feed-url` set specific feed link.
 
 ### Up to 5 code highlight themes built-in.
