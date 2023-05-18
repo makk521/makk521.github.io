@@ -14,3 +14,9 @@ hello world!
 ### 图片
 
 (test)[xxx.jpg]
+
+![1684399843117](image/2023-05-12-first_blog/1684399843117.png)
+
+11111
+
+![](/image/2023-05-12-first_blog/1684399843117.png)
